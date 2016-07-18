@@ -16,6 +16,6 @@ decided to release it.
 * No heavy dependencies (based on [libxml2](http://xmlsoft.org/) and [libcurl](http://curl.haxx.se/libcurl/))
 * Supports basic and certificate-based authentication
 
-See [Building-and-Installing](Building-and-Installing) and
+See https://github.com/awelzel/libifmap2c/wiki/Building-and-Installing and
 [Examples-and-Testing](Examples-and-Testing) in the wiki for more
 information.
